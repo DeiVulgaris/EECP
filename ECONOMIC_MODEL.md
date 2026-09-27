@@ -1,375 +1,695 @@
 # Economic Model
 
-## Complexity Gap, Human Capital and the Economics of Increasing Complexity
+## Economic Foundation of EECP
+
+**EECP — Endocortex–Exocortex Coupling Protocol**
+
+This document defines the economic model underlying the EECP research program.
+
+The central question is not how to build more powerful technology.
+
+It is:
+
+> **How does an economy realize the value of increasing technological complexity?**
+
+The central hypothesis of this model is:
+
+> **The complexity of supply can grow faster than the complexity of the user capable of realizing that supply.**
+
+This creates a **Complexity Gap**.
+
+For increasingly complex products, economic value depends not only on the ability to produce them, but on the ability of users, organizations and institutions to understand, adopt and effectively use them.
 
 ---
 
-## 1. Purpose
+# 1. The Fundamental Economic Relation
 
-This document defines the economic hypothesis underlying the Endocortex–Exocortex project.
-
-The purpose is not to describe a technology or prescribe a particular economic policy.
-
-The purpose is to identify a possible structural constraint on economic development arising from the increasing complexity of modern production.
-
-The central hypothesis is:
-
-> **The complexity of supply can grow faster than the ability of users to understand, adopt and effectively use that supply.**
-
-This creates a potential **Complexity Gap**.
-
-The project investigates whether this gap can become an increasingly important constraint on the realization of technological and economic potential.
-
----
-
-# 2. The Central Problem
-
-Technological progress continuously expands what an economy can produce.
-
-Products and services become:
-
-* more technologically sophisticated;
-* more configurable;
-* more specialized;
-* more interconnected;
-* more information-intensive;
-* more dependent on complementary technologies;
-* more dependent on user knowledge.
-
-However, production is only one side of the economic process.
-
-For a product or service to generate economic value, someone must be capable of using it.
-
-This creates a fundamental asymmetry.
-
-The capacity to produce complexity may increase faster than the capacity of the average user to absorb that complexity.
-
-We define the resulting difference conceptually as:
+Conventional economic models tend to represent production and consumption as complementary processes:
 
 $$
-G_C = C_P - C_U
+Production \rightarrow Consumption
+$$
+
+This model introduces an additional variable:
+
+$$
+C_U = User\ Capability
+$$
+
+The economic realization of a product therefore depends not only on the product itself, but on the capability of the user to operate it.
+
+For a product with complexity \(C_P\):
+
+$$
+Realized\ Value = f(C_P, C_U)
+$$
+
+The critical condition is:
+
+$$
+C_U \geq C_P^{effective}
+$$
+
+where \(C_P^{effective}\) represents the complexity that must actually be mastered to extract the intended value from the product.
+
+When:
+
+$$
+C_P > C_U
+$$
+
+a **Complexity Gap** emerges:
+
+$$
+\boxed{G_C = C_P - C_U}
+$$
+
+The larger the gap, the greater the proportion of potential product value that may remain unrealized.
+
+---
+
+# 2. Production Does Not Equal Economic Realization
+
+A product can be technically produced without its economic potential being fully realized.
+
+This distinction is fundamental.
+
+$$
+Potential\ Value \neq Realized\ Value
+$$
+
+A technological system may possess enormous potential while generating substantially less economic value than its technical capabilities would suggest.
+
+Therefore:
+
+$$
+V_R = f(C_P,C_U,I)
 $$
 
 where:
 
-* \(G_C\) = Complexity Gap;
-* \(C_P\) = complexity of available production and supply;
-* \(C_U\) = effective complexity capacity of the user.
+* \(V_R\) = realized economic value;
+* \(C_P\) = product complexity;
+* \(C_U\) = user capability;
+* \(I\) = institutional and organizational capability.
 
-This is not intended as a complete quantitative economic indicator at this stage.
-
-It is a conceptual variable describing a potentially important relationship.
-
----
-
-# 3. The Fundamental Proposition
-
-The central proposition of this model is:
-
-> **For a complex product, there must be a sufficiently complex user.**
-
-A technologically sophisticated product may exist without being fully economically realized.
-
-The limiting factor may no longer be the ability to manufacture the product.
-
-It may be the ability of users to:
-
-* understand it;
-* configure it;
-* integrate it;
-* operate it;
-* evaluate its output;
-* combine it with other systems;
-* discover its potential applications.
-
-Therefore technological capability and economic realization are not identical.
-
-A society may possess a technological capability without possessing sufficient human capability to exploit it fully.
-
----
-
-# 4. Complexity of the User
-
-The term **user complexity** does not refer to intelligence in a general psychological sense.
-
-It refers to the set of capabilities required to effectively interact with a given level of technological and organizational complexity.
-
-These capabilities may include:
-
-* domain knowledge;
-* technical literacy;
-* abstraction;
-* problem formulation;
-* system thinking;
-* decision-making;
-* learning ability;
-* information evaluation;
-* communication;
-* ability to manage uncertainty;
-* ability to use cognitive tools.
-
-User complexity is therefore contextual.
-
-A person may be highly capable in one environment and insufficiently prepared for another.
-
-The relevant question is not:
-
-> “How intelligent is the person?”
-
-but:
-
-> **“What level of complexity can the person effectively operate?”**
-
----
-
-# 5. Consumption Is Not Economically Passive
-
-Traditional economic intuition can treat consumption as the final stage of production.
-
-However, increasingly complex products require active participation by the consumer.
-
-The user may need to:
-
-* configure the product;
-* learn how to use it;
-* integrate it into existing systems;
-* make decisions based on its output;
-* combine it with other products;
-* adapt it to new situations;
-* create new applications.
-
-Therefore the user's capabilities partly determine the economic value realized from the product.
-
-The consumer becomes a component of the production–consumption system.
-
-This leads to an important proposition:
-
-> **The complexity of consumption becomes a productive economic capability.**
-
----
-
-# 6. Production and Consumption as a Recursive System
-
-Production creates products.
-
-Products create requirements for users.
-
-Users develop capabilities.
-
-Developed users create new demand and new applications.
-
-New demand enables further production.
-
-The process can therefore be represented as:
+The economy therefore has a second stage beyond production:
 
 $$
-P_t \rightarrow U_{t+1}
+Production \rightarrow Realization
+$$
+
+The ability to realize increasingly complex products becomes itself an economic resource.
+
+---
+
+# 3. The User as Productive Capital
+
+The user is not merely the endpoint of production.
+
+The user's capability is part of the production system.
+
+Human capital therefore includes not only:
+
+* knowledge;
+* skills;
+* experience;
+* professional competence;
+
+but also:
+
+* ability to understand complex systems;
+* ability to learn new systems;
+* ability to formulate problems;
+* ability to interact with technological systems;
+* ability to integrate external cognitive resources;
+* ability to operate increasingly complex products.
+
+Thus:
+
+$$
+Human\ Capital \rightarrow Production\ Capacity
 $$
 
 and:
 
 $$
-U_t \rightarrow P_{t+1}
+Human\ Capital \rightarrow Consumption\ Capacity
+$$
+
+Consumption capacity is therefore not economically passive.
+
+A sufficiently capable user enables the realization of more complex products.
+
+---
+
+# 4. The Recursive Development of Product and User
+
+The relationship between production and users is not one-directional.
+
+Complex products require more capable users.
+
+More capable users create demand for more complex products.
+
+Therefore:
+
+$$
+Production_t \rightarrow User_{t+1}
+$$
+
+and:
+
+$$
+User_t \rightarrow Production_{t+1}
+$$
+
+The resulting relationship is recursive:
+
+$$
+\boxed{Production_t \leftrightarrow User_t}
+$$
+
+This creates a possible development cycle:
+
+```text
+More capable users
+        ↓
+More sophisticated demand
+        ↓
+More complex products
+        ↓
+Need for more capable users
+        ↓
+Development of human capital
+        ↓
+More capable users
+```
+
+Economic development can therefore be understood partly as a process of **mutual escalation between product complexity and user capability**.
+
+---
+
+# 5. The Complexity Gap
+
+The critical instability occurs when the two sides develop at different rates.
+
+Let:
+
+$$
+\frac{dC_P}{dt}
+$$
+
+represent the rate of increase in product complexity, and:
+
+$$
+\frac{dC_U}{dt}
+$$
+
+represent the rate of increase in user capability.
+
+A sustainable development trajectory requires sufficient growth of user capability relative to product complexity.
+
+A critical condition is:
+
+$$
+\frac{dC_P}{dt} \gg \frac{dC_U}{dt}
+$$
+
+This produces a growing Complexity Gap:
+
+$$
+G_C(t+1) > G_C(t)
+$$
+
+The economy can therefore produce increasingly sophisticated technologies while simultaneously becoming less capable of realizing their full potential.
+
+---
+
+# 6. AI as a Special Case
+
+Artificial intelligence provides an unusually clear example.
+
+AI systems can increase their technical complexity at extremely high speed:
+
+$$
+C_{AI} \uparrow
+$$
+
+But the ability of organizations, workers and consumers to integrate these systems may develop more slowly:
+
+$$
+C_{User} \uparrow
+$$
+
+If:
+
+$$
+C_{AI} \gg C_{User}
+$$
+
+then the economy may possess technological capacity that exceeds its current capacity for economic realization.
+
+This does not mean that AI is economically useless.
+
+It means that:
+
+> **Technological capability and economic realization are different variables.**
+
+The distinction is essential.
+
+---
+
+# 7. The Realization Gap
+
+The Complexity Gap can produce a second quantity:
+
+$$
+\boxed{G_R = V_P - V_R}
 $$
 
 where:
 
-* \(P\) = complexity of production and supply;
-* \(U\) = effective complexity capacity of users.
+* \(V_P\) = potential economic value;
+* \(V_R\) = realized economic value.
 
-Together:
-
-$$
-P_t \leftrightarrow U_t
-$$
-
-This is a recursive relationship.
-
-The development of production creates pressure for development of the user.
-
-The development of the user creates conditions for further development of production.
-
----
-
-# 7. The Complexity Gap as a Bottleneck
-
-If production complexity increases significantly while user capability remains relatively stable:
+A complex technology can therefore have:
 
 $$
-C_P \uparrow
+V_P \gg V_R
 $$
 
-while:
+without the technology itself being technically unsuccessful.
+
+The problem is the inability of the surrounding economic system to convert potential into realized value.
+
+This is the **Realization Gap**.
+
+The relationship can be represented as:
 
 $$
-C_U \approx const.
-$$
-
-then:
-
-$$
-G_C \uparrow
-$$
-
-A growing gap may result in:
-
-* underutilized technological capability;
-* products being used below their potential;
-* increased support costs;
-* longer adoption cycles;
-* dependence on intermediaries;
-* reduced effective demand;
-* fragmentation of markets;
-* increased training requirements.
-
-This does not imply that every increase in product complexity is economically beneficial.
-
-Nor does it imply that all complexity should be increased.
-
-The hypothesis concerns the relationship between **available complexity and the capacity required to use it effectively**.
-
----
-
-# 8. Historical Pattern: External and Internal Expansion
-
-Economic development has historically relied heavily on forms of external expansion.
-
-Examples include:
-
-* expansion of agricultural land;
-* access to natural resources;
-* geographical expansion of markets;
-* infrastructure expansion;
-* energy consumption;
-* industrial capacity;
-* global integration.
-
-As external opportunities become constrained or more expensive, economic development increasingly depends on intensive forms of expansion:
-
-* productivity;
-* organization;
-* technology;
-* knowledge;
-* education;
-* innovation;
-* human capital.
-
-This can be described conceptually as a transition:
-
-$$
-External\ Expansion
+Complexity\ Gap
 \rightarrow
-Constraint
-\rightarrow
-Internal\ Expansion
+Realization\ Gap
 $$
 
-The term **internal expansion** here refers to an increase in the productive complexity and capability of the system itself.
-
-It does not imply that external expansion disappears.
-
-Rather, it suggests that the relative importance of developing internal capability can increase as external opportunities become constrained.
-
 ---
 
-# 9. Human Capital as Internal Expansion
+# 8. From Realization to Profit
 
-Human capital is one of the primary forms of internal economic expansion.
+Markets ultimately translate expected economic value into financial expectations.
 
-A person can become more economically capable through:
+For a technology company:
 
-* education;
-* experience;
-* specialization;
-* practice;
-* technological augmentation;
-* improved decision-making;
-* improved communication;
-* access to better cognitive tools.
+$$
+Expected\ Profit = f(Expected\ Future\ Value)
+$$
 
-Unlike a fixed physical resource, human capability can continuously develop.
-
-This makes human capital particularly relevant to an economy whose main constraint increasingly concerns complexity rather than physical production alone.
-
----
-
-# 10. Artificial Intelligence as a Human-Capital Amplifier
-
-Artificial intelligence introduces a new mechanism.
-
-Traditional tools generally extend specific physical or computational capabilities.
-
-AI can extend multiple forms of intellectual activity simultaneously.
-
-It can assist with:
-
-* analysis;
-* synthesis;
-* explanation;
-* simulation;
-* programming;
-* research;
-* design;
-* planning;
-* translation;
-* memory;
-* information retrieval.
-
-This creates the possibility of increasing the effective complexity capacity of an individual.
+If markets capitalize future value faster than the economy realizes that value, financial valuation can move ahead of actual earnings.
 
 Conceptually:
 
 $$
-C_U^{AI} > C_U^{human}
+Expected\ Value \gg Realized\ Value
 $$
 
-for some classes of tasks.
+may produce:
 
-This inequality is not universal.
+$$
+Market\ Valuation \gg Current\ Earnings
+$$
 
-AI does not automatically increase every human capability, and its effectiveness depends on the quality of the human–AI interaction.
+This is not automatically irrational.
 
-Nevertheless, the possibility is economically significant.
+High valuation can reflect legitimate expectations of future growth.
+
+The economic risk appears when the expected rate of value realization fails to materialize.
+
+Then:
+
+$$
+Expected\ Profit < Previous\ Expectation
+$$
+
+and investors may revise valuations.
 
 ---
 
-# 11. The New Constraint: AI Capability vs. User Capability
+# 9. The AI Investment Cycle
 
-AI itself can become highly sophisticated.
+The AI economy can therefore be represented as a chain:
 
-But a powerful AI system does not automatically produce a powerful economic outcome.
+```text
+AI capability
+      ↓
+Expected economic value
+      ↓
+Expected future profits
+      ↓
+Investment
+      ↓
+AI infrastructure
+      ↓
+Computing capacity
+      ↓
+AI models and applications
+      ↓
+Economic utilization
+      ↓
+Realized revenue and profit
+```
 
-The user must still be able to:
+The chain is sustainable when realized economic value catches up with the expectations that justified the investment.
 
-* formulate objectives;
-* provide context;
-* evaluate outputs;
-* recognize uncertainty;
-* verify claims;
-* identify errors;
-* compare alternatives;
-* make decisions.
-
-Therefore another form of Complexity Gap can emerge:
+The critical condition is:
 
 $$
-G_{AI} = C_{Exocortex} - C_{Endocortex}
+V_R \rightarrow V_E
 $$
 
 where:
 
-* \(C_{Exocortex}\) = effective complexity of available AI cognitive capability;
-* \(C_{Endocortex}\) = effective capacity of the human to direct and evaluate that capability.
+* \(V_R\) = realized value;
+* \(V_E\) = value previously expected by investors.
 
-The objective should not be to maximize the first term while ignoring the second.
+If instead:
 
-The economic opportunity lies in developing the relationship between them.
+$$
+V_R \ll V_E
+$$
+
+the system becomes vulnerable to repricing.
 
 ---
 
-# 12. Endocortex–Exocortex Coupling
+# 10. The AI Valuation Gap
 
-The human and AI can therefore be treated as complementary components of a larger productive system.
+Define:
+
+$$
+\boxed{G_V = V_E - V_R}
+$$
+
+where:
+
+* \(V_E\) = economically expected value capitalized by markets;
+* \(V_R\) = economically realized value.
+
+The larger the gap, the greater the vulnerability of the investment cycle to a change in expectations.
+
+The mechanism is:
+
+$$
+Complexity\ Gap
+\rightarrow
+Realization\ Gap
+\rightarrow
+Valuation\ Gap
+$$
+
+This is a central hypothesis of the model.
+
+---
+
+# 11. Possible Investment Reversal
+
+If investors conclude that expected future earnings will not materialize at the required rate, capital allocation can change.
+
+The mechanism is straightforward:
+
+$$
+Expected\ Return_{AI}
+<
+Expected\ Return_{Alternative}
+$$
+
+Capital has an incentive to move elsewhere.
+
+This may produce:
+
+$$
+Investment \downarrow
+$$
+
+which can reduce demand throughout the upstream production system.
+
+---
+
+# 12. Why Infrastructure Is Derivative
+
+AI infrastructure is economically derivative from the value of the AI systems that use it.
+
+The ultimate economic justification for:
+
+* GPUs;
+* servers;
+* data centers;
+* networking;
+* electricity infrastructure;
+* semiconductor fabrication;
+* lithography;
+* semiconductor manufacturing equipment;
+* advanced materials;
+* related R&D;
+
+is not the existence of computing capacity by itself.
+
+It is the economic value generated by applications using that capacity.
+
+Therefore:
+
+$$
+AI\ Applications
+\rightarrow
+Compute\ Demand
+\rightarrow
+Infrastructure\ Demand
+$$
+
+not merely:
+
+$$
+Infrastructure \rightarrow Value
+$$
+
+This distinction matters.
+
+If expected economic value from AI applications declines substantially, demand expectations can propagate backward through the infrastructure chain.
+
+---
+
+# 13. Systemic Repricing Hypothesis
+
+A possible contraction can therefore propagate through the AI production chain:
+
+```text
+AI applications
+        ↓
+AI models
+        ↓
+AI companies
+        ↓
+Hyperscalers / cloud
+        ↓
+Data centers
+        ↓
+GPU / accelerator demand
+        ↓
+Semiconductor fabrication
+        ↓
+Lithography and fab equipment
+        ↓
+Materials and components
+        ↓
+Industrial R&D
+```
+
+The reverse process can occur after a major revision of expectations:
+
+```text
+Lower expected AI profitability
+        ↓
+Lower AI investment
+        ↓
+Lower compute demand
+        ↓
+Lower infrastructure investment
+        ↓
+Lower semiconductor demand
+        ↓
+Lower equipment demand
+        ↓
+Lower upstream investment
+```
+
+This does not imply that such a contraction must occur.
+
+It defines a **transmission mechanism** that can be tested empirically.
+
+---
+
+# 14. The Bubble Hypothesis
+
+The model does not assume that the current AI economy is necessarily a bubble.
+
+Instead, it defines a falsifiable condition under which an AI investment bubble could emerge.
+
+A bubble becomes possible when:
+
+$$
+Expected\ Future\ Value
+\gg
+Realized\ Economic\ Value
+$$
+
+and investment continues to expand on the assumption that realization will eventually catch up.
+
+The potential sequence is:
+
+$$
+Complexity\ Gap
+$$
+
+$$
+\downarrow
+$$
+
+$$
+Realization\ Gap
+$$
+
+$$
+\downarrow
+$$
+
+$$
+Profit\ Gap
+$$
+
+$$
+\downarrow
+$$
+
+$$
+Valuation\ Gap
+$$
+
+$$
+\downarrow
+$$
+
+$$
+Investment\ Reversal
+$$
+
+The resulting correction would not necessarily demonstrate that AI technology failed.
+
+It could demonstrate that **capitalized expectations grew faster than the economic system's capacity to realize the technology's value**.
+
+---
+
+# 15. Why the User Becomes a Macroeconomic Variable
+
+This produces a non-trivial conclusion.
+
+If the user's capability determines how much value can be extracted from increasingly complex products, then user capability affects aggregate economic realization.
+
+Therefore:
+
+$$
+C_U
+$$
+
+is not merely a personal characteristic.
+
+It becomes an economic variable.
+
+At sufficient scale:
+
+$$
+Aggregate\ User\ Capability
+\rightarrow
+Aggregate\ Realization\ Capacity
+$$
+
+The development of human capital therefore becomes part of the infrastructure required to realize technological investment.
+
+This changes the traditional understanding of education.
+
+---
+
+# 16. Education as Economic Infrastructure
+
+Education is normally treated as investment in individuals.
+
+Under this model, education is also investment in the economy's capacity to realize increasingly complex production.
+
+The sequence becomes:
+
+$$
+Technology\ Complexity
+\rightarrow
+Required\ User\ Complexity
+$$
+
+therefore:
+
+$$
+Product\ Development
+\rightarrow
+Human\ Capital\ Development
+$$
+
+Education is consequently not merely preparation for existing production.
+
+It is a mechanism for making future production economically realizable.
+
+---
+
+# 17. AI as Human-Capital Infrastructure
+
+Artificial intelligence can also be understood as a potential amplifier of human capital.
+
+The relevant question is not:
+
+> How powerful is the AI?
+
+but:
+
+> How much additional productive complexity can a human effectively operate through the AI?
+
+Define:
+
+$$
+C_{H+X}
+$$
+
+as the effective complexity capacity of a human coupled with an Exocortex.
+
+Then:
+
+$$
+C_{H+X} > C_H
+$$
+
+may occur if the coupling is effective.
+
+This gives AI a different economic role:
+
+$$
+AI \rightarrow Human\ Capital\ Amplification
+$$
+
+rather than merely:
+
+$$
+AI \rightarrow Automation
+$$
+
+---
+
+# 18. The Coupling Requirement
+
+The ability to use AI effectively depends on the quality of the relationship between the human and the artificial system.
 
 Let:
 
@@ -381,309 +701,254 @@ $$
 X = Exocortex
 $$
 
-The simplest model is:
-
 $$
-H + X
+R = Coupling
 $$
 
-But the economically relevant possibility is:
+Then:
 
 $$
-S = (H,X,R)
+S=(H,X,R)
 $$
 
-where \(R\) is the structure of interaction between them.
-
-The value of the system may therefore depend not only on the capabilities of H and X individually, but also on the quality of \(R\).
-
-Conceptually:
+The effective capability of the coupled system is:
 
 $$
-V(S) = f(H,X,R)
+C_S = f(C_H,C_X,R)
 $$
 
-This does not imply that the coupled system always produces greater value.
+A powerful Exocortex does not automatically produce a powerful coupled system.
 
-It means that **coupling itself becomes an economic variable**.
+If:
 
----
+$$
+R \rightarrow 0
+$$
 
-# 13. The Coupled System as a Developing Economic Unit
-
-The Endocortex–Exocortex system can change over time.
-
-The human learns how to use AI.
-
-The AI environment adapts to the human.
-
-The human develops better methods of delegation.
-
-The system accumulates context.
-
-The human learns to formulate better questions.
-
-The Exocortex becomes specialized.
-
-The interaction develops its own conventions.
+the potential capability of \(X\) cannot be fully realized by \(H\).
 
 Therefore:
 
 $$
-S_t \rightarrow S_{t+1}
+C_X \gg C_H
 $$
 
-The economically relevant unit is increasingly not simply:
+does not necessarily produce:
 
-> human
+$$
+C_S \approx C_X
+$$
 
-or:
+The economic problem is therefore not simply the existence of powerful AI.
 
-> AI
+It is the ability to **couple human capability with AI capability**.
 
-but potentially:
-
-> **human–AI productive system.**
-
-This does not eliminate the legal or economic identity of the individual.
-
-It describes a new configuration of productive capability.
+This is the economic justification for EECP.
 
 ---
 
-# 14. Complexity of the User as Economic Infrastructure
+# 19. Personal Exocortex
 
-If complex products require capable users, then the development of users is not merely a social expenditure.
+A Personal Exocortex is therefore not primarily an AI assistant.
 
-It can function as economic infrastructure.
+It is infrastructure for increasing the individual's capacity to operate complexity.
 
-Education, training and cognitive development can increase:
+Its economic functions may include:
+
+* knowledge retention;
+* research;
+* problem decomposition;
+* learning;
+* planning;
+* verification;
+* specialized reasoning;
+* interaction with professional systems;
+* preservation of intellectual work;
+* coordination with specialized AI agents.
+
+The objective is:
 
 $$
-C_U
+C_{H+X} \uparrow
 $$
 
-which can reduce:
-
-$$
-G_C
-$$
-
-and allow more of the available production capability to be realized.
-
-This creates a direct economic relationship between:
-
-> **human-capital development**
-
-and:
-
-> **technological utilization.**
+while preserving human agency.
 
 ---
 
-# 15. Education as Production of Capability
+# 20. The Recursive Economic Cycle
 
-Under this model, the economic function of education is broader than the transmission of knowledge.
+The complete model can now be represented as:
 
-Education produces the capability to:
-
-* understand complexity;
-* learn new complexity;
-* use technological systems;
-* solve unfamiliar problems;
-* verify information;
-* cooperate with other people;
-* work with AI.
-
-This leads to a shift:
-
-```text id="l7hy2c"
-Education as information transfer
-              ↓
-Education as capability formation
-              ↓
-Education as continuous human-capital development
-```
-
-An educational system optimized for a relatively stable technological environment may become inadequate when technological complexity changes rapidly.
-
-This motivates the development of a future **Educational Protocol**.
-
----
-
-# 16. The User as a Source of Demand
-
-A more capable user does not merely consume existing products more effectively.
-
-The user can also generate new demand.
-
-Higher capability allows people to:
-
-* identify previously invisible needs;
-* formulate more sophisticated requirements;
-* combine technologies;
-* demand greater customization;
-* create new applications;
-* participate in innovation.
-
-Therefore:
-
-$$
-C_U \uparrow
-\Rightarrow
-Demand\ Complexity \uparrow
-$$
-
-which can stimulate:
-
-$$
-C_P \uparrow
-$$
-
-The user is therefore simultaneously:
-
-* consumer;
-* evaluator;
-* adapter;
-* source of demand;
-* potential creator.
-
----
-
-# 17. The Positive Recursive Loop
-
-The full mechanism can be represented as:
-
-```text id="9f2h0g"
-More capable production
+```text
+Technological development
         ↓
-More complex products
+Increasing product complexity
         ↓
 Need for more capable users
         ↓
 Human-capital development
         ↓
-More capable users
+Greater user capability
         ↓
-More sophisticated demand
+Higher realization capacity
         ↓
-New products and applications
+More complex products become economically viable
         ↓
-More capable production
-        ↓
-...
+Further technological development
 ```
 
-This is the central economic recursion of the project.
-
-The objective is not to stop complexity.
-
-The objective is to develop the human and institutional capacity required to remain inside the recursion.
-
----
-
-# 18. AI Changes the Speed of the Recursion
-
-AI may accelerate both sides.
-
-It can increase production complexity by making it easier to create:
-
-* software;
-* research;
-* designs;
-* simulations;
-* intellectual services;
-* specialized tools.
-
-At the same time, it can increase user capability by providing:
-
-* tutoring;
-* explanation;
-* assistance;
-* simulation;
-* feedback;
-* cognitive support.
-
-Therefore AI can potentially operate on both sides of the Complexity Gap.
-
-This creates a new possibility:
+Formally:
 
 $$
-AI:
-\quad
-P \uparrow
-\quad and \quad
-U \uparrow
+P_t \rightarrow U_{t+1}
 $$
 
-The economic problem becomes one of maintaining sufficient coupling between these two rates.
+$$
+U_t \rightarrow P_{t+1}
+$$
+
+therefore:
+
+$$
+\boxed{P_t \leftrightarrow U_t}
+$$
+
+This is the fundamental recursive mechanism.
 
 ---
 
-# 19. The Role of Personal Exocortex
+# 21. Sustainable vs. Unsustainable Complexity Growth
 
-A Personal Exocortex can be interpreted economically as infrastructure for the continuous development of user capability.
+Two trajectories can be distinguished.
 
-It can support:
+### Sustainable trajectory
 
-* education;
-* professional development;
-* problem solving;
-* creativity;
-* research;
-* lifelong learning.
+$$
+\frac{dC_U}{dt}
+\approx
+\frac{dC_P}{dt}
+$$
 
-Its fundamental function is not merely to answer questions.
+The user's capability grows sufficiently to realize increasing product complexity.
 
-It is to increase the individual's effective capacity to operate within complex environments.
+### Unsustainable trajectory
 
-The Personal Exocortex therefore belongs conceptually to the infrastructure of human capital.
+$$
+\frac{dC_P}{dt}
+\gg
+\frac{dC_U}{dt}
+$$
+
+Product complexity grows faster than realization capacity.
+
+The second trajectory produces:
+
+$$
+G_C \uparrow
+$$
+
+which may produce:
+
+$$
+G_R \uparrow
+$$
+
+and potentially:
+
+$$
+G_V \uparrow
+$$
+
+The economic system then becomes increasingly dependent on future realization catching up with present expectations.
 
 ---
 
-# 20. Portability of Human Capital
+# 22. The Economic Objective
 
-If a person's cognitive capability becomes increasingly dependent on an external AI infrastructure, a new economic question appears:
+The objective is therefore not:
 
-> What happens to that capability when the person changes institution, employer or AI provider?
+> Maximize technological complexity.
 
-A portable Personal Exocortex could preserve elements such as:
+Nor is it:
 
-* verified competencies;
-* credentials;
-* professional history;
-* projects;
-* preferences;
-* working methods;
-* selected persistent context.
+> Maximize AI capability.
 
-This would allow human capital to remain associated with the person while particular AI services remain replaceable.
+The relevant objective is:
 
-The economic principle is:
+$$
+\boxed{Maximize\ Economically\ Realizable\ Complexity}
+$$
 
-> **The productive capability of the person should not necessarily be identical to the infrastructure provider through which that capability is realized.**
+This requires simultaneous development of:
+
+$$
+Technology
++
+Human\ Capital
++
+Organizations
++
+Institutions
+$$
+
+A technological breakthrough that cannot be effectively adopted produces less economic value than its technical capability suggests.
 
 ---
 
-# 21. Intellectual Property as an Economic Asset
+# 23. Implications for Professional Activity
 
-Human productive capability can generate intellectual assets.
+The increasing complexity of production also changes professional activity.
 
-These may include:
+This does not require a new system of labor relations.
 
-* inventions;
+Existing relationships remain:
+
+* employment;
+* contracting;
+* consulting;
+* partnership;
+* licensing;
+* royalties;
+* equity participation;
+* other contractual arrangements.
+
+What changes is the complexity of the productive configuration.
+
+An individual may contribute:
+
+* labor;
+* knowledge;
+* experience;
+* professional skills;
+* Personal Exocortex;
+* intellectual property;
+* specialized methods.
+
+An organization may contribute:
+
+* capital;
+* data;
 * patents;
-* copyrights;
-* designs;
-* software;
-* know-how;
-* trademarks.
+* infrastructure;
+* AI systems;
+* organizational resources;
+* distribution;
+* market access.
 
-Such rights are not components of human cognition itself.
+The allocation of resulting rights and compensation can remain contractual.
 
-However, they can be economically associated with the Endocortex because they are outputs of human intellectual activity.
+The protocol does not replace existing economic relations.
 
-A simplified chain is:
+It manages their increased complexity.
+
+---
+
+# 24. Intellectual Property and the Endocortex
+
+Intellectual activity originates in the cognitive process of the Endocortex, often amplified by the Exocortex.
+
+A useful conceptual chain is:
 
 $$
 Endocortex
@@ -697,377 +962,160 @@ Legal\ Right
 Economic\ Asset
 $$
 
-These assets can subsequently become resources in economic transactions.
+This does not imply that intellectual property law should be rewritten.
+
+It means that the economic model should recognize intellectual capability and cognitive infrastructure as productive resources.
 
 ---
 
-# 22. Employment and Contractual Relations
+# 25. Human Agency
 
-The model does not require a fundamentally new form of employment.
+The economic model does not treat humans as components of an automated system.
 
-Existing economic and legal relationships can be extended to accommodate a more complex combination of resources.
+The purpose of increasing cognitive coupling is to increase human productive capability while preserving agency.
 
-A worker may contribute:
-
-* labor;
-* knowledge;
-* experience;
-* professional skills;
-* Personal Exocortex;
-* intellectual property;
-* personal methods.
-
-An organization may contribute:
-
-* capital;
-* infrastructure;
-* data;
-* patents;
-* corporate AI systems;
-* technology;
-* organizational resources;
-* market access.
-
-The resulting economic product can therefore emerge from a combination of resources owned or controlled by different parties.
-
-The allocation of rights and remuneration can remain contractual.
-
-Possible arrangements include:
-
-* salary;
-* fee;
-* bonus;
-* percentage of revenue;
-* royalty;
-* license;
-* equity;
-* combinations of these mechanisms.
-
-The increasing complexity lies not necessarily in the fundamental relationship, but in the number and type of resources that must be described by the agreement.
-
-This motivates a future **Professional Protocol**.
-
----
-
-# 23. Complexity of Economic Relations
-
-The same principle that produces the Complexity Gap in products can appear in economic relations.
-
-As the production system becomes more complex, the number of relevant relationships increases.
-
-For example:
-
-```text id="n9b1u2"
-Worker
-  │
-  ├── Personal Exocortex
-  ├── Skills
-  ├── IP
-  └── Experience
-        │
-        ▼
-     Employer
-        │
-        ├── Data
-        ├── Patents
-        ├── AI
-        ├── Infrastructure
-        └── Capital
-        │
-        ▼
-      Result
-```
-
-The challenge is therefore not necessarily to replace the existing contractual system.
-
-It is to make it capable of describing the more complex configuration.
-
----
-
-# 24. From External Expansion to Internal Expansion
-
-The model proposes a broader economic interpretation.
-
-When external expansion becomes increasingly constrained, growth may depend more heavily on the ability to increase the complexity and productivity of the system internally.
-
-The relevant resources increasingly include:
-
-* knowledge;
-* organization;
-* education;
-* technology;
-* human capital;
-* cognitive capability.
-
-AI potentially accelerates this process by allowing cognitive capability itself to become technologically extensible.
-
-The transition can therefore be represented as:
+Therefore:
 
 $$
-External\ Expansion
-\rightarrow
-Internal\ Development
-\rightarrow
-Cognitive\ Augmentation
-\rightarrow
-Recursive\ Human\ Capital
-$$
-
-This is a theoretical proposition rather than a claim that external expansion has ended.
-
----
-
-# 25. A New Economic Resource: Cognitive Capacity
-
-The model suggests that cognitive capacity may increasingly become an economically scarce resource.
-
-Not simply:
-
-> how much information is available?
-
-but:
-
-> how much complexity can a person or organization effectively process and turn into action?
-
-In an information-rich environment, the limiting factor may shift from information availability toward:
-
-* attention;
-* understanding;
-* formulation;
-* verification;
-* coordination;
-* judgment.
-
-AI can increase some of these capacities, but the human remains part of the system.
-
-Therefore the relevant resource is increasingly:
-
-> **effective cognitive capacity of the coupled system.**
-
----
-
-# 26. The Economic Objective
-
-The objective implied by this model is not maximum technological complexity.
-
-It is:
-
-> **maximum economically realizable complexity.**
-
-This distinction is important.
-
-A technology that nobody can effectively use does not automatically create proportional economic value.
-
-The economic system should therefore develop both:
-
-$$
-Production\ Capability
+Human\ Agency
+\neq
+Automation
 $$
 
 and:
 
 $$
-User\ Capability
+AI\ Assistance
+\neq
+Transfer\ of\ Agency
 $$
 
-while maintaining an effective relationship between them.
+The desired configuration is:
+
+$$
+Human\ Intention
++
+AI\ Capability
+\rightarrow
+Greater\ Human\ Capacity
+$$
 
 ---
 
-# 27. Research Questions
+# 26. Falsifiability
 
-The economic model generates a number of questions that must be investigated rather than assumed to be true.
+The model is intended to generate testable hypotheses.
 
-### Complexity
+Relevant measurements include:
 
-How can production complexity be measured?
-
-How can user complexity be measured?
-
-Can the Complexity Gap be operationalized?
-
-### Adoption
-
-Does increasing product complexity systematically increase the importance of user capability?
-
-### Human Capital
-
-Can improvements in cognitive capability measurably increase economic utilization of complex products?
-
-### AI
-
-Under what conditions does AI increase effective user capability rather than merely automate tasks?
-
-### Education
-
-Can AI-assisted personalized education reduce the Complexity Gap?
-
-### Labor
-
-How does AI-augmented human capability affect productivity and contractual relations?
-
-### Intellectual Property
-
-How should existing IP rights interact with Personal Exocortex systems?
-
-### Economic Growth
-
-Can increased user capability create measurable additional demand for more complex products and services?
-
-### Recursion
-
-Does a positive feedback loop emerge between:
+### Product complexity
 
 $$
-Production
-\leftrightarrow
-User\ Capability
+C_P
 $$
 
-?
+### User capability
 
-These questions define the empirical research program.
+$$
+C_U
+$$
+
+### Complexity Gap
+
+$$
+G_C=C_P-C_U
+$$
+
+### Potential value
+
+$$
+V_P
+$$
+
+### Realized value
+
+$$
+V_R
+$$
+
+### Realization Gap
+
+$$
+G_R=V_P-V_R
+$$
+
+### Expected value
+
+$$
+V_E
+$$
+
+### Valuation Gap
+
+$$
+G_V=V_E-V_R
+$$
+
+Possible empirical questions include:
+
+1. Does increasing product complexity systematically increase the skill requirements of users?
+2. Does insufficient user capability reduce adoption or utilization?
+3. Does human-capital development increase realization of complex technologies?
+4. Does AI-assisted human capability increase the economically realizable complexity of work?
+5. In AI markets, does investment growth systematically precede or exceed realized productivity and earnings growth?
+6. Under what conditions does a realization gap produce financial repricing?
+7. How strongly can a change in AI demand propagate through upstream infrastructure industries?
+
+These questions allow the model to be tested rather than treated as a purely philosophical proposition.
 
 ---
 
-# 28. Falsifiability
+# 27. Central Hypothesis
 
-The model should remain open to falsification.
+The central economic hypothesis of EECP is:
 
-The hypothesis would be weakened if evidence showed that:
+> **Economic growth is constrained not only by the ability to produce increasingly complex products, but by the ability of users, organizations and institutions to realize their complexity.**
 
-* increasing product complexity does not materially depend on user capability;
-* technological adoption is largely independent of user complexity;
-* increasing human capability does not increase utilization of complex products;
-* AI augmentation does not meaningfully increase effective user capability;
-* the proposed recursive relationship does not produce measurable economic effects.
+Therefore:
 
-The purpose of the project is therefore not to defend the hypothesis at all costs.
+$$
+\boxed{
+Economic\ Development
+=
+Development\ of\ Production
++
+Development\ of\ Realization\ Capacity
+}
+$$
 
-It is to determine whether the hypothesis provides a useful explanation of an emerging economic constraint.
+The second component is often underestimated.
 
 ---
 
-# 29. From Economic Model to Protocols
+# 28. Final Principle
 
-If the Complexity Gap proves to be a meaningful economic phenomenon, several institutional consequences follow.
+The economic system does not create value merely by producing increasingly powerful technologies.
 
-### Education
+It creates value when increasingly capable users can realize those technologies.
 
-Education must increasingly develop the capability to operate complex systems.
-
-This motivates:
-
-> **Educational Protocol**
-
-### Professional activity
-
-Existing labor and contractual relationships must accommodate increasingly complex combinations of human, AI and corporate resources.
-
-This motivates:
-
-> **Professional Protocol**
-
-### Human–AI interaction
-
-The individual needs persistent and controllable infrastructure for coupling with AI.
-
-This motivates:
-
-> **Endocortex–Exocortex Coupling Protocol**
-
-### Personal infrastructure
-
-The individual needs a portable environment through which this coupling can persist across contexts.
-
-This motivates:
-
-> **Personal Exocortex**
-
-Thus the technology is derived from the economic problem rather than the reverse.
-
----
-
-# 30. Core Economic Thesis
-
-The economic model can be condensed into the following sequence:
+Therefore:
 
 $$
-Increasing\ Production\ Complexity
+\boxed{
+For\ a\ complex\ product,\ there\ must\ be\ a\ sufficiently\ complex\ user.
+}
 $$
 
-$$
-\downarrow
-$$
+And at the level of the economy:
 
 $$
-Increasing\ Product\ Complexity
+\boxed{
+The\ complexity\ of\ production\ must\ be\ accompanied\ by\ the\ development\ of\ the\ capacity\ to\ realize\ it.
+}
 $$
 
-$$
-\downarrow
-$$
+EECP is one possible technological response to this economic requirement.
 
-$$
-Increasing\ Requirements\ for\ Users
-$$
+It is not the starting point of the model.
 
-$$
-\downarrow
-$$
-
-$$
-Need\ for\ Human\ Capital\ Development
-$$
-
-$$
-\downarrow
-$$
-
-$$
-AI\text{-}Augmented\ Human\ Capability
-$$
-
-$$
-\downarrow
-$$
-
-$$
-Endocortex\text{–}Exocortex\ Coupling
-$$
-
-$$
-\downarrow
-$$
-
-$$
-Greater\ Effective\ Economic\ Complexity
-$$
-
-$$
-\downarrow
-$$
-
-$$
-New\ Production\ Complexity
-$$
-
-The process is recursive.
-
-The economic challenge is not simply to produce more powerful technology.
-
-It is to ensure that human capability develops sufficiently to make increasing technological complexity economically realizable.
-
----
-
-# 31. Fundamental Proposition
-
-The current economic hypothesis of the project can therefore be stated in one sentence:
-
-> **The next constraint on technological economic growth may increasingly be not the ability to produce complex products, but the ability of humans to consume, understand and use them effectively.**
-
-And its corresponding principle is:
-
-> **For a complex product, there must be a sufficiently complex user.**
-
-The purpose of the Endocortex–Exocortex project is to investigate how that condition can be achieved.
+The starting point is the economy.

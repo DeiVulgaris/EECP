@@ -611,17 +611,7 @@ This question provides the historical bridge between the economic model, human c
 
 The historical perspective leads to the following working principle:
 
-$$
-\boxed{
-\text{Sustainable Complexity}
-=
-\text{Production}
-+
-\text{Human Capability}
-+
-\text{Institutional Reproduction}
-}
-$$
+> **Sustainable Complexity = Production + Human Capability + Institutional Reproduction**
 
 The equation is conceptual rather than an accounting identity.
 
@@ -633,10 +623,6 @@ This provides the historical extension of the economic model developed in Parts 
 
 The central research question therefore becomes:
 
-$$
-\boxed{
-\textbf{Can economic systems continuously reproduce the human and institutional capability required by the complexity they themselves produce?}
-}
-$$
+> **Can economic systems continuously reproduce the human and institutional capability required by the complexity they themselves produce?**
 
-This question connects the historical development of knowledge institutions with the contemporary emergence of AI, adaptive education and Personal Exocortex systems.
+This question connects the historical development of knowledge institutions with the contemporary emergence of AI, adaptive education, and Personal Exocortex systems.

@@ -1,54 +1,165 @@
-# Part II — Working Hypothesis
+# PART II — ENDOGENOUS DEMAND AND THE PRODUCTION OF THE USER
 
-## Endogenous Demand and the Production of the User
+## 1. From Technological Supply to Economic Realization
 
-### 1. From Product Production to Market Formation
-
-The first part of the economic model established a fundamental relation:
+The first part of the economic model established a fundamental relationship:
 
 $$
-C_P > C_U
+G_C = C_P - C_U
 $$
 
-may create a **Complexity Gap** between the complexity of a product and the capability of the user to realize its value.
+where:
 
-Part II develops a further hypothesis:
+* \(C_P\) — complexity of productive supply,
+* \(C_U\) — effective complexity capacity of the user,
+* \(G_C\) — the Complexity Gap.
 
-> **For sufficiently complex products, the market cannot be treated as an entirely pre-existing external condition. The productive system must simultaneously develop the capability of users to realize the product.**
+The central proposition was:
 
-This does not mean that demand is artificially created by advertising.
+> **For sufficiently complex products, there must be a sufficiently complex user.**
 
-It means that the capacity to use a product can itself become an object of economic development.
+This proposition becomes particularly important in the contemporary AI economy.
 
-The production of a complex product may therefore require two simultaneous processes:
+AI systems have rapidly increased the complexity of what can be produced, automated, analyzed, generated, and coordinated. However, technological capability alone does not constitute economic value.
+
+A technological capability becomes economically significant only to the extent that individuals, organizations, and institutions can actually use it.
+
+Therefore:
 
 $$
-Production \rightarrow Product
+Potential\ Value \neq Realized\ Value
+$$
+
+and more specifically:
+
+$$
+V_R = f(C_P,C_U,C_I)
+$$
+
+where:
+
+* \(V_R\) — realized economic value,
+* \(C_P\) — productive complexity,
+* \(C_U\) — user complexity,
+* \(C_I\) — institutional complexity.
+
+This introduces a second problem beyond the Complexity Gap:
+
+> **The economy may produce technological complexity faster than it produces the capacity required to realize that complexity.**
+
+---
+
+## 2. The Contemporary AI Economy as an Example
+
+The contemporary AI economy provides a concrete environment in which this relationship can be observed.
+
+Large-scale AI development requires simultaneous expansion of:
+
+* models and applications;
+* computing infrastructure;
+* data centers;
+* accelerators and semiconductor capacity;
+* cloud infrastructure;
+* software ecosystems;
+* organizational adoption;
+* professional skills;
+* user capability.
+
+The investment chain therefore does not terminate at technological production.
+
+It ultimately depends on economic realization:
+
+$$
+AI\ Technology
+\rightarrow
+Adoption
+\rightarrow
+Productivity
+\rightarrow
+Economic\ Value
+$$
+
+The same principle applies to infrastructure.
+
+Compute capacity, data centers, accelerators, semiconductor fabrication, and associated industrial systems acquire their economic justification from expected demand for the computational capabilities they support.
+
+Thus:
+
+$$
+AI\ Capability
+\rightarrow
+User\ Capability
+\rightarrow
+Economic\ Realization
+\rightarrow
+Infrastructure\ Demand
+$$
+
+The relationship is therefore recursive rather than linear.
+
+---
+
+## 3. The Realization Gap
+
+Let:
+
+$$
+V_P = Potential\ Value
 $$
 
 and:
 
 $$
-Production \rightarrow User\ Capability
+V_R = Realized\ Value
 $$
 
-The economic process becomes:
+Then:
 
 $$
-\boxed{
-Production
-\rightarrow
-Product + User\ Development
-\rightarrow
-Realized\ Demand
-}
+G_R = V_P - V_R
 $$
+
+where \(G_R\) is the **Realization Gap**.
+
+A technological system can therefore be highly capable while generating substantially less economic value than its technical potential would suggest.
+
+The size of this gap depends partly on the relationship between product complexity and user capability:
+
+$$
+V_R=f(C_P,C_U)
+$$
+
+As:
+
+$$
+C_P \uparrow
+$$
+
+the economic system must also increase:
+
+$$
+C_U \uparrow
+$$
+
+otherwise:
+
+$$
+G_C=C_P-C_U
+$$
+
+increases.
+
+This creates a fundamental economic constraint:
+
+> **Technological progress does not automatically produce proportional economic realization.**
 
 ---
 
-# 2. The Classical Investment Sequence
+## 4. From External Demand to Endogenous Demand
 
-A simplified conventional investment sequence can be represented as:
+Classical economic models generally treat demand as an external or pre-existing condition of production.
+
+A simplified representation is:
 
 $$
 I \rightarrow Production \rightarrow Sales \rightarrow Revenue
@@ -56,218 +167,182 @@ $$
 
 where:
 
-* \(I\) = investment;
-* Production = creation of goods or services;
-* Sales = conversion of supply into demand;
-* Revenue = realization of economic value.
+* \(I\) — investment.
 
-This representation works relatively well when the user already possesses the capability required to use the product.
+This model works reasonably well when the capabilities of the product are already familiar to users and the required user competence is relatively low.
 
-For highly complex products, however, an additional variable becomes critical:
+However, sufficiently complex technologies create a different situation.
 
-$$
-C_U = User\ Capability
-$$
-
-The relevant sequence becomes:
-
-$$
-\boxed{
-I
-\rightarrow
-Production + User\ Development
-\rightarrow
-Demand
-\rightarrow
-Revenue
-}
-$$
-
-The investment therefore contributes not only to the production of the product itself, but potentially to the formation of the conditions under which the product can become economically useful at scale.
-
----
-
-# 3. The User as an Economic Variable
-
-The conventional distinction between producer and consumer may become insufficient for complex technological systems.
-
-The consumer is not merely the endpoint of production.
-
-The user's capability determines how much of the product's potential value can be realized.
+The user may not yet possess the knowledge, skills, habits, conceptual frameworks, or technological literacy required to recognize and realize the product's full value.
 
 Therefore:
 
 $$
-D_{effective}=f(C_P,C_U)
+D_P > D_E
 $$
 
 where:
 
-* \(D_{effective}\) = economically effective demand;
-* \(C_P\) = product complexity;
-* \(C_U\) = user capability.
+* \(D_P\) — potential demand,
+* \(D_E\) — effective demand.
 
-The same product can therefore have radically different economic value in different populations.
+Potential demand represents the economic value that could be generated if the required capability existed.
 
-A complex system may be:
+Effective demand represents the value that users are actually capable of realizing.
 
-$$
-High\ Value
-$$
-
-for a highly capable user and:
+This produces a different investment cycle:
 
 $$
-Low\ Value
-$$
-
-for a user unable to operate it.
-
-The product has not changed.
-
-The realization capacity has changed.
-
----
-
-# 4. Potential Demand and Effective Demand
-
-This suggests a distinction between:
-
-$$
-D_P = Potential\ Demand
-$$
-
-and:
-
-$$
-D_E = Effective\ Demand
-$$
-
-Potential demand represents the economic need or interest that could exist if users possessed sufficient capability.
-
-Effective demand represents the portion that can actually be converted into economically useful activity.
-
-Conceptually:
-
-$$
-D_E \leq D_P
-$$
-
-and the difference may increase with the Complexity Gap.
-
-Thus:
-
-$$
-G_C \uparrow
-\Rightarrow
-D_E/D_P \downarrow
-$$
-
-This is a hypothesis rather than a universal law.
-
-It should be tested across different classes of complex products.
-
----
-
-# 5. Production of the User
-
-The phrase **production of the user** is used here in an economic rather than ideological sense.
-
-It refers to the development of capabilities required to realize increasingly complex products.
-
-These capabilities may include:
-
-* knowledge;
-* skills;
-* technological literacy;
-* problem formulation;
-* interface literacy;
-* ability to evaluate machine-generated output;
-* ability to coordinate multiple tools;
-* organizational competence;
-* ability to learn continuously.
-
-Thus:
-
-$$
-User\ Development
+I
 \rightarrow
-Increased\ Realization\ Capacity
+Production + User\ Development
+\rightarrow
+Emergent\ Demand
+\rightarrow
+Economic\ Realization
+\rightarrow
+Revenue
 $$
 
-The economic system may therefore invest simultaneously in:
+The market for a sufficiently complex product is therefore not necessarily completely external to production.
+
+> **At sufficiently high levels of technological complexity, the capacity of the market to realize the product is partly produced together with the product itself.**
+
+---
+
+## 5. User Development as an Economic Variable
+
+User development is often treated as education, marketing, customer support, or workforce training.
+
+This model proposes treating it as a distinct economic variable.
+
+Let:
 
 $$
-Physical\ Capital
+C_U(t)
+$$
+
+represent the effective complexity capacity of users at time \(t\).
+
+Then economic development requires not only:
+
+$$
+C_P(t+1)>C_P(t)
+$$
+
+but also:
+
+$$
+C_U(t+1)>C_U(t)
+$$
+
+at a sufficient rate.
+
+The critical relationship is therefore not simply:
+
+$$
+C_P\uparrow
+$$
+
+but:
+
+$$
+\frac{dC_U}{dt}
+\approx
+\frac{dC_P}{dt}
+$$
+
+at least sufficiently to maintain economic realizability.
+
+User capability includes:
+
+* technological literacy;
+* ability to formulate problems;
+* ability to interact with complex interfaces;
+* ability to evaluate machine-generated results;
+* domain knowledge;
+* ability to coordinate multiple tools;
+* ability to experiment;
+* ability to learn continuously;
+* ability to integrate new technologies into existing workflows.
+
+These are productive capabilities.
+
+---
+
+## 6. The User as Productive Capital
+
+The user should therefore not be understood merely as the endpoint of production.
+
+The user is also part of the productive system.
+
+A more complete representation is:
+
+$$
+Production_t \rightarrow User_{t+1}
 $$
 
 and:
 
 $$
-Human\ Capital
+User_t \rightarrow Production_{t+1}
 $$
 
-because both are required to realize increasingly complex production.
+Therefore:
+
+$$
+Production_t \leftrightarrow User_t
+$$
+
+Production creates products that can increase user capability.
+
+Increased user capability creates demand for more sophisticated products.
+
+More sophisticated demand creates economic justification for more sophisticated production.
+
+The system becomes recursive:
+
+$$
+P_t
+\rightarrow
+C_U(t+1)
+\rightarrow
+D(t+1)
+\rightarrow
+P(t+2)
+$$
+
+This creates a positive feedback loop between technological complexity and human capability.
 
 ---
 
-# 6. Operator S — Continuous Micro-Adaptation
+## 7. Micro-Adaptation
 
-One possible mechanism for user development is represented by operator \(S\).
+One mechanism through which user capability can increase is continuous micro-adaptation.
+
+Define an operator:
 
 $$
 S:C_U(t)\rightarrow C_U(t+\Delta t)
 $$
 
-\(S\) represents continuous micro-adaptation through interaction with products.
+The operator \(S\) represents repeated small changes in the user's ability to work with a technological system.
 
-Examples include:
+These changes can arise through:
 
-* repeated use;
-* immediate feedback;
-* interface adaptation;
 * experimentation;
+* repeated interaction;
+* feedback;
+* comparison;
 * trial and error;
-* micro-learning;
-* comparison between alternative tools;
-* incremental improvement of workflows.
+* interface adaptation;
+* prompt reformulation;
+* discovering system capabilities;
+* discovering system limitations;
+* workflow modification;
+* informal learning.
 
-The characteristic feature of \(S\) is its short cycle.
-
-It operates through repeated interaction:
-
-$$
-User
-\rightarrow
-Product
-\rightarrow
-Feedback
-\rightarrow
-Adaptation
-\rightarrow
-User'
-$$
-
-The user therefore becomes more capable through using the product itself.
-
----
-
-# 7. Free Access as a Possible S-Mechanism
-
-The rapid expansion of low-cost and free access to AI systems provides a potentially important empirical example.
-
-Users can repeatedly:
-
-* experiment with AI;
-* compare different models;
-* reformulate prompts;
-* evaluate outputs;
-* discover capabilities;
-* discover limitations;
-* develop new workflows;
-* switch between different AI systems.
-
-This creates a continuous adaptation loop:
+The basic loop is:
 
 $$
 Query
@@ -281,591 +356,547 @@ Adjustment
 New\ Query
 $$
 
-Over time:
+Each cycle can slightly modify the user's capability.
 
-$$
-C_U(t+\Delta t)>C_U(t)
-$$
+The individual therefore does not need to complete a formal educational program before becoming more capable.
 
-may emerge.
-
-Under this hypothesis, free or low-cost access can have an economic function beyond customer acquisition:
-
-> **It can subsidize the development of user capability required for the realization of increasingly complex AI products.**
-
-The commercial motivation of an individual company is not necessary for this mechanism to exist.
-
-The mechanism can emerge from the requirements of the economic system itself.
+Capability can emerge continuously through use.
 
 ---
 
-# 8. The Economic Necessity Hypothesis
+## 8. AI as a Mechanism of User Development
 
-Suppose a new technology has:
+The contemporary AI environment provides a particularly clear example.
+
+Access to multiple AI systems allows users to:
+
+* experiment with different models;
+* compare outputs;
+* discover different capabilities;
+* identify limitations;
+* learn how to formulate problems;
+* develop new workflows;
+* transfer tasks between systems;
+* develop criteria for evaluating machine output.
+
+The resulting process can be represented as:
+
+$$
+H+X_1\rightarrow H'
+$$
+
+$$
+H'+X_2\rightarrow H''
+$$
+
+$$
+H''+X_3\rightarrow H'''
+$$
+
+where:
+
+* \(H\) — human cognitive capability,
+* \(X_i\) — an external AI system,
+* \(H'\), \(H''\), \(H'''\) — progressively modified human capability.
+
+The important point is that the human capability remains the developing component even when the external cognitive system changes.
+
+This suggests that access to AI can function not only as access to a product, but also as a mechanism of **human-capital formation**.
+
+---
+
+## 9. Why This Is an Economic Requirement
+
+The development of user capability should not be interpreted merely as a discretionary marketing strategy.
+
+The deeper argument is structural.
+
+If:
 
 $$
 C_P \gg C_U
 $$
 
-If users cannot effectively operate the technology, its potential economic value cannot be fully realized.
+then the economy may produce technological capabilities that users cannot sufficiently exploit.
 
-Then:
-
-$$
-V_{realized} \ll V_{potential}
-$$
-
-Investment in production alone may therefore be insufficient.
-
-Some process must reduce the gap:
+Without sufficient user capability:
 
 $$
-C_U \uparrow
+Potential\ Value \gg Realized\ Value
 $$
 
-The system can achieve this through:
-
-* education;
-* experience;
-* interface design;
-* free access;
-* professional training;
-* AI-assisted learning;
-* organizational adaptation;
-* cultural diffusion.
-
-Therefore:
+and therefore:
 
 $$
-\boxed{
-Investment\ in\ Product
-+
-Investment\ in\ User\ Capability
-}
+Expected\ Economic\ Return
 $$
 
-may be required for large-scale realization of highly complex technologies.
+may remain substantially above:
+
+$$
+Realized\ Economic\ Return
+$$
+
+The investment system can tolerate a gap for some time if future growth is credible.
+
+But persistent failure to convert technological capability into economic value creates a fundamental risk to the investment cycle.
+
+Thus user development is not simply an optional complement to technological investment.
+
+It can become a **condition for the realization of that investment**.
 
 ---
 
-# 9. The Emergence of Demand
+## 10. The Investment Cycle of Complex Technologies
 
-As user capability increases:
+The classical investment cycle can therefore be expanded.
 
-$$
-C_U \uparrow
-$$
-
-the range of economically realizable applications can increase:
+### Classical form
 
 $$
-D_E \uparrow
-$$
-
-This creates a recursive relationship:
-
-$$
-C_U
+I_t
 \rightarrow
-D_E
+Production_t
 \rightarrow
-Production
+Sales_t
 \rightarrow
-New\ Product\ Complexity
+Revenue_t
+\rightarrow
+I_{t+1}
 $$
 
-The economy therefore generates demand partly through the development of the capabilities required to recognize and use new possibilities.
-
-This can be described as **endogenous demand formation**.
-
-The market is not simply discovered.
-
-For sufficiently complex products, part of the market is **developed**.
-
----
-
-# 10. The Revised Investment Cycle
-
-The resulting cycle can be represented as:
+### Complexity-adjusted form
 
 $$
-\boxed{
 I_t
 \rightarrow
 Production_t
 +
-UserDevelopment_t
+User\ Development_t
 \rightarrow
 C_U(t+1)
 \rightarrow
-D_{t+1}
+Demand_{t+1}
+\rightarrow
+Realization_{t+1}
 \rightarrow
 Revenue_{t+1}
 \rightarrow
 I_{t+1}
-}
 $$
 
-This is fundamentally recursive.
+Investment therefore does not merely finance production.
 
-Investment creates products.
+For sufficiently complex technologies, part of the economic process must also increase the system's capacity to use what is being produced.
 
-Products create requirements for more capable users.
+This produces a new interpretation of investment:
 
-User development creates new effective demand.
-
-Demand creates revenue.
-
-Revenue supports further investment.
-
-Thus:
-
-$$
-\boxed{
-Investment
-\leftrightarrow
-Production
-\leftrightarrow
-User\ Development
-\leftrightarrow
-Demand
-}
-$$
+> **Investment in complex technology is partly investment in the future capacity of the economy to realize that technology.**
 
 ---
 
-# 11. The AI Investment Cycle
+## 11. The AI Investment Cycle and Realization Risk
 
-AI provides a particularly visible case of this mechanism.
+The contemporary AI economy makes this mechanism particularly visible.
 
-A simplified AI development cycle is:
-
-```text
-Investment
-    ↓
-AI models
-    ↓
-Infrastructure
-    ↓
-Distribution
-    ↓
-User exposure
-    ↓
-User learning
-    ↓
-Higher user capability
-    ↓
-New applications
-    ↓
-New demand
-    ↓
-Revenue
-    ↓
-Further investment
-```
-
-The critical variable is therefore not only AI capability:
-
-$$
-C_{AI}
-$$
-
-but the relationship:
-
-$$
-\frac{C_{AI}}{C_U}
-$$
-
-If this ratio remains extremely high, the economic system may have difficulty converting technological potential into realized value.
-
-If \(C_U\) increases sufficiently, the same technology can become economically transformative.
-
----
-
-# 12. Model Independence as an Economic Behavior
-
-A further possible manifestation is the growing practice of using multiple AI models rather than treating one model as permanently attached to the user.
-
-The user's intention can remain persistent:
-
-$$
-H_t \rightarrow H_{t+1}
-$$
-
-while the external cognitive carrier changes:
-
-$$
-X_1 \rightarrow X_2 \rightarrow X_3
-$$
-
-The user may therefore interact with several Exocortex providers while maintaining continuity of purpose.
-
-This behavior can be interpreted as an early empirical manifestation of:
-
-$$
-\boxed{Model\ Independence}
-$$
-
-The economic significance is that competition may increasingly occur not only between AI products but between interchangeable cognitive resources serving a persistent user.
-
----
-
-# 13. Cognitive Liquidity
-
-This behavior suggests another working concept:
-
-> **Cognitive liquidity** is the ability of a user to obtain cognitive work from interchangeable external cognitive resources according to task, quality, cost and availability.
-
-A user with high cognitive liquidity can:
-
-* compare models;
-* switch providers;
-* combine outputs;
-* use different models for different tasks;
-* preserve continuity of intention while changing cognitive carriers.
-
-Conceptually:
-
-$$
-H + \{X_1,X_2,...,X_n\}
-$$
-
-may provide greater effective capability than:
-
-$$
-H + X_1
-$$
-
-even if no individual \(X_i\) is universally optimal.
-
-This is a potential economic consequence of Model Independence.
-
----
-
-# 14. Complexity Gap and Investment Risk
-
-The previous sections imply a possible investment risk.
-
-Suppose:
+The production side may expand rapidly:
 
 $$
 C_P \uparrow\uparrow
 $$
 
-while:
+while human capability develops more gradually:
 
 $$
 C_U \uparrow
 $$
 
-more slowly.
-
-Then:
+This produces:
 
 $$
 G_C=C_P-C_U
 $$
 
-increases.
+If the gap persists, the system accumulates realization risk.
 
-If investors nevertheless capitalize the future value of the technology as though the gap will rapidly disappear:
-
-$$
-V_E \uparrow
-$$
-
-while:
+Let:
 
 $$
-V_R
-$$
-
-does not increase at the expected rate, then:
-
-$$
-G_V=V_E-V_R
-$$
-
-may increase.
-
-This produces a potential chain:
-
-$$
-\boxed{
-Complexity\ Gap
-\rightarrow
-Realization\ Gap
-\rightarrow
-Profit\ Gap
-\rightarrow
-Valuation\ Gap
-}
-$$
-
-If expectations are subsequently revised, investment can reverse.
-
----
-
-# 15. Infrastructure as a Derived Investment
-
-The AI infrastructure economy is therefore economically dependent on the expected realization of AI value.
-
-A simplified chain is:
-
-$$
-AI\ Applications
-\rightarrow
-AI\ Models
-\rightarrow
-Compute
-\rightarrow
-Data\ Centers
-\rightarrow
-Semiconductors
-\rightarrow
-Manufacturing\ Equipment
-\rightarrow
-Upstream\ R\&D
-$$
-
-Investment moves forward through this chain when investors expect future demand.
-
-A sufficiently large downward revision of expected AI profitability could therefore propagate backward:
-
-$$
-Applications
-\leftarrow
-Models
-\leftarrow
-Compute
-\leftarrow
-Infrastructure
-\leftarrow
-Semiconductors
-\leftarrow
-Equipment
-$$
-
-This is not a prediction of an AI crash.
-
-It is a **transmission hypothesis**:
-
-> **If realized AI value persistently fails to justify the expected value capitalized into the sector, repricing may propagate upstream through the infrastructure chain.**
-
----
-
-# 16. The User as Part of the Investment Thesis
-
-This leads to a stronger interpretation of technological investment.
-
-An investor in a sufficiently complex technology is not investing only in:
-
-$$
-Technology
-$$
-
-The investor is implicitly investing in:
-
-$$
-Technology + Adoption + User\ Capability + Institutional\ Adaptation
-$$
-
-Therefore:
-
-$$
-\boxed{
-Future\ Revenue
-=
-f(Technology,\ User\ Capability,\ Institutions,\ Adoption)
-}
-$$
-
-The future market is partly endogenous to the development of these variables.
-
-The investor is therefore not merely forecasting the size of an existing market.
-
-The investor is forecasting the ability of the economic system to **develop the market required to realize the technology**.
-
----
-
-# 17. The Fundamental Recursion
-
-The complete hypothesis can be summarized as:
-
-$$
-\boxed{
-Technology_t
-\rightarrow
-User\ Development_{t+1}
-\rightarrow
-Demand_{t+1}
-\rightarrow
-Technology_{t+2}
-}
-$$
-
-This is a recursive economic process.
-
-Technology develops the user.
-
-The developed user creates new demand.
-
-New demand enables further technological development.
-
-Therefore:
-
-$$
-\boxed{
-Technology
-\leftrightarrow
-User
-}
-$$
-
-is not merely a relationship between producer and consumer.
-
-It may be one of the mechanisms through which economic complexity develops over time.
-
----
-
-# 18. Working Hypotheses
-
-Part II proposes the following hypotheses for future empirical investigation.
-
-### H1 — Complexity Gap Hypothesis
-
-For sufficiently complex products, economic realization decreases when product complexity grows substantially faster than user capability.
-
-$$
-C_P \uparrow\uparrow
-\quad\land\quad
-C_U \uparrow
-$$
-
-may produce:
-
-$$
-G_C\uparrow
-$$
-
-and reduced realization efficiency.
-
-### H2 — User Development Hypothesis
-
-The economic realization of complex products can be increased through deliberate development of user capability.
-
-$$
-C_U\uparrow
-\Rightarrow
-V_R\uparrow
-$$
-
-### H3 — Endogenous Demand Hypothesis
-
-For sufficiently complex products, part of effective market demand emerges only after users acquire the capability required to use the product.
-
-$$
-C_U\uparrow
-\Rightarrow
-D_E\uparrow
-$$
-
-### H4 — Micro-Adaptation Hypothesis
-
-Repeated low-friction interaction with complex technology can increase user capability through continuous micro-adaptation.
-
-$$
-S(C_U)\rightarrow C_U'
-$$
-
-### H5 — Investment Complementarity Hypothesis
-
-For sufficiently complex technologies, investment in production and investment in user capability are complementary rather than independent.
-
-$$
-I_{total}
-=
-I_{production}
-+
-I_{user}
-$$
-
-### H6 — Realization Risk Hypothesis
-
-When expected technological value is capitalized substantially faster than realized economic value, the resulting valuation gap increases the probability of investment repricing.
-
-$$
-V_E \gg V_R
-$$
-
-### H7 — Infrastructure Transmission Hypothesis
-
-A major downward revision of expected AI profitability can propagate from AI applications through models, compute, infrastructure and upstream semiconductor industries.
-
----
-
-# 19. What Would Falsify the Model?
-
-The model should remain falsifiable.
-
-It would be weakened if evidence showed that:
-
-1. increases in product complexity do not materially affect the capability required for effective use;
-2. user capability has little relationship with realization of complex products;
-3. user development does not materially affect effective demand;
-4. free or low-cost exposure to complex technologies does not produce measurable capability growth;
-5. investment in highly complex technologies can reliably generate expected returns without corresponding development of users or institutions;
-6. major differences between technological potential and user capability have little economic consequence.
-
-The purpose of the model is therefore not to assert that every complex technology creates a market through user development.
-
-The purpose is to identify the conditions under which this mechanism becomes economically significant.
-
----
-
-# 20. Central Proposition of Part II
-
-The central proposition is:
-
-> **For sufficiently complex products, production and market formation become partially inseparable processes. The economy must not only produce the product; it must develop the capability required to realize the product.**
-
-Therefore:
-
-$$
-\boxed{
-Production
-\neq
-Economic\ Realization
-}
+V_E = Expected\ Value
 $$
 
 and:
 
 $$
-\boxed{
-Economic\ Realization
+V_R = Realized\ Value
+$$
+
+Then:
+
+$$
+G_V=V_E-V_R
+$$
+
+A large and persistent:
+
+$$
+G_V
+$$
+
+creates a difference between the economic expectations embedded in investment decisions and the economic value actually being produced.
+
+The model does not require the prediction that an AI market crash will occur.
+
+Instead, it identifies a structural vulnerability:
+
+> **If technological complexity grows substantially faster than the economy's capacity to realize it, the gap between expected and realized value can become a source of investment-cycle instability.**
+
+This is a conditional hypothesis, not a prediction of a particular market event.
+
+---
+
+## 12. The Weak Link
+
+The preceding analysis allows the identification of a potential weak link in a high-complexity technology economy.
+
+It is tempting to identify the limiting factor as:
+
+* computing power;
+* semiconductor supply;
+* capital;
+* energy;
+* data;
+* AI model capability.
+
+These are all important.
+
+But another constraint exists:
+
+$$
+\boxed{Human\ and\ Institutional\ Capacity\ to\ Realize\ Complexity}
+$$
+
+The system can produce increasingly powerful technologies while the capacity required to use them develops more slowly.
+
+The resulting structure is:
+
+$$
+C_P
+\gg
+C_U
+$$
+
+and potentially:
+
+$$
+C_P
+\gg
+C_U,\ C_I
+$$
+
+where \(C_I\) represents institutional capability.
+
+The weak link is therefore not necessarily technological production itself.
+
+It may be the **realization capacity of the economic system**.
+
+---
+
+## 13. From Complexity Gap to Complexity Debt
+
+A persistent mismatch can be represented conceptually as:
+
+$$
+CD_{t+1}
 =
-Production
+CD_t
 +
-User\ Capability
-+
-Institutional\ Adaptation
+\Delta C_P
+-
+\Delta C_U
+-
+\Delta C_I
+$$
+
+where \(CD\) is **Complexity Debt**.
+
+This is not intended as a literal financial accounting identity.
+
+It is a conceptual indicator of accumulated mismatch between:
+
+* technological complexity being produced;
+* human complexity available to use it;
+* institutional complexity available to support it.
+
+Complexity debt can manifest as:
+
+* low adoption;
+* underused infrastructure;
+* weak productivity gains;
+* failed implementations;
+* organizational inefficiency;
+* skill shortages;
+* excessive dependence on a small number of highly capable individuals;
+* lower-than-expected returns on technological investment.
+
+---
+
+## 14. Strategic AI Leadership
+
+The model has a direct implication for national technology strategy.
+
+Suppose a government defines strategic AI leadership as a goal.
+
+Maximizing:
+
+$$
+C_P
+$$
+
+alone is insufficient.
+
+The system must also increase:
+
+$$
+C_U
+$$
+
+and:
+
+$$
+C_I
+$$
+
+because:
+
+$$
+V_{AI}=f(C_P,C_U,C_I)
+$$
+
+A country can therefore possess leading AI technology without possessing an economy capable of fully realizing its potential.
+
+This produces a broader strategic relationship:
+
+$$
+AI\ Policy
+\rightarrow
+Human\ Capital\ Policy
+\rightarrow
+Educational\ Policy
+$$
+
+Education is consequently not external to technological strategy.
+
+It becomes part of the infrastructure required to convert technological capability into economic value.
+
+The strategic objective is therefore not simply:
+
+$$
+Maximum\ AI\ Capability
+$$
+
+but:
+
+$$
+\boxed{
+Maximum\ Economically\ Realizable\ AI\ Complexity
 }
 $$
 
-The market for a sufficiently complex technology is therefore not entirely given in advance.
+---
 
-Part of it must emerge through the development of the users capable of realizing the technology.
+## 15. The Future Consumer
 
-This provides a possible explanation for why technological ecosystems may subsidize low-friction access, experimentation, education and user adaptation long before the full economic value of the technology becomes visible.
+The concept of the "consumer" must therefore be reconsidered.
 
-It also provides a possible bridge between:
+A future consumer is not simply a person who purchases future products.
 
-* technological development;
-* human capital;
-* demand formation;
-* investment;
-* valuation;
-* and systemic economic risk.
+A future consumer is a person capable of:
 
-The hypothesis remains open to empirical testing.
+* recognizing new capabilities;
+* understanding their implications;
+* formulating meaningful problems;
+* interacting with complex systems;
+* evaluating their outputs;
+* integrating them into productive activity;
+* generating new demand from newly available possibilities.
+
+Thus:
+
+$$
+Consumer
+\rightarrow
+Advanced\ User
+\rightarrow
+Co-Developer
+$$
+
+The boundary between consumption and production becomes increasingly permeable.
+
+A sufficiently capable user does not merely consume complexity.
+
+The user helps create the economic conditions for the next level of complexity.
+
+---
+
+## 16. From Economic Analysis to Education
+
+At this point the economic model reaches its natural limit.
+
+If:
+
+$$
+C_P \uparrow
+$$
+
+requires:
+
+$$
+C_U \uparrow
+$$
+
+and if increasing \(C_U\) is necessary for the realization of technological investment, then the economy requires a systematic mechanism for continuously developing human capability.
+
+That mechanism cannot begin only when a person enters the labor market.
+
+It must develop across the entire human life cycle:
+
+$$
+Early\ Development
+\rightarrow
+Basic\ Education
+\rightarrow
+Complexity\ Literacy
+\rightarrow
+Technological\ Literacy
+\rightarrow
+Professional\ Capability
+\rightarrow
+Continuous\ Learning
+$$
+
+Education therefore becomes part of the economic production cycle itself.
+
+The relevant question is no longer:
+
+> How do we teach people to use today's technologies?
+
+The deeper question is:
+
+> **How can an economy continuously increase the complexity capacity of its population so that people remain capable of realizing technologies that do not yet exist?**
+
+This is the transition from economic analysis to the next part of the model.
+
+---
+
+# 17. Conclusion
+
+The analysis began with a simple observation:
+
+> **The complexity of technological supply can grow faster than the complexity of the user.**
+
+The contemporary AI economy provides a concrete environment in which this relationship becomes economically significant.
+
+AI development increases productive complexity:
+
+$$
+C_P\uparrow\uparrow
+$$
+
+but economic realization depends on the simultaneous development of:
+
+$$
+C_U
+$$
+
+and:
+
+$$
+C_I
+$$
+
+Therefore:
+
+$$
+V_R=f(C_P,C_U,C_I)
+$$
+
+The model identifies a chain:
+
+$$
+Complexity\ Gap
+\rightarrow
+Realization\ Gap
+\rightarrow
+Return\ Gap
+\rightarrow
+Investment\ Risk
+$$
+
+This does not constitute a prediction of a specific market crash.
+
+It identifies a **structural condition of vulnerability**.
+
+If technological complexity substantially outruns human and institutional capability, the economy may accumulate a growing difference between technological potential and economic realization.
+
+This identifies a possible weak link in the development of high-complexity technologies:
+
+$$
+\boxed{
+The\ capacity\ of\ the\ economy\ to\ produce\ technology
+may\ exceed
+its\ capacity\ to\ realize\ that\ technology.
+}
+$$
+
+The implication is fundamental.
+
+Economic development cannot be understood solely as the production of increasingly complex goods and technologies.
+
+It must also include the systematic development of the people and institutions capable of realizing them.
+
+The economic cycle therefore becomes:
+
+$$
+Investment
+\rightarrow
+Production
++
+Human\ Capability\ Development
+\rightarrow
+Demand
+\rightarrow
+Realization
+\rightarrow
+Revenue
+\rightarrow
+New\ Investment
+$$
+
+The market for sufficiently complex products is therefore partly endogenous to the process of producing the capabilities required to use those products.
+
+This leads to the central proposition of Part II:
+
+> **For sufficiently complex technologies, the economic system must develop the user together with the product.**
+
+And this produces the next question.
+
+If the future economic system requires continuously increasing human capability, then human capability cannot be treated as an accidental by-product of economic growth.
+
+It must become a systematically developed component of the system.
+
+Therefore:
+
+$$
+\boxed{
+Balanced\ Economic\ Complexity
+\rightarrow
+Systematic\ Human\ Capability\ Formation
+}
+$$
+
+The next part of the model addresses this problem directly:
+
+> **How should education be designed if its economic function is not merely to transmit existing knowledge, but to continuously increase the human capacity to realize the complexity of the future economy?**
+
+This is the starting point of **Part III — Systemic Formation of Balanced Economic Complexity and the Educational Protocol**.
